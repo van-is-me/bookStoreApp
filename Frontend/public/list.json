@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Nhà giả kim",
+        "content": "Nhà giả kim của Paulo Coelho như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông.",
+        "price": 200000,
+        "category": "Best Book",
+        "image": "https://th.bing.com/th/id/R.969649664aee6ff6519834ac681a3e10?rik=0ADCAbs770U6VA&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 2,
+        "name": "Muôn kiếp nhân sinh",
+        "content": "Muôn kiếp nhân sinh là một bộ sách về tâm linh do giáo sư John Vũ sáng tác dưới bút danh Nguyên Phong và được công ty First News phát hành năm 2020.",
+        "price": 200000,
+        "category": "Best Book",
+        "image": "https://th.bing.com/th/id/R.ad751603558b8e1e5c973c480a91a0cb?rik=KHDiif4tAZEDTQ&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 3,
+        "name": "Đắc Nhân Tâm",
+        "content": "Đắc Nhân Tâm của soạn giả Dale Carnegie là 1 quyển sách hay nên đọc để bạn biết về nghệ thuật thu phục lòng người và làm tất cả mọi người phải yêu mến mình.",
+        "price": 200000,
+        "category": "Best Book",
+        "image": "https://th.bing.com/th/id/R.90ad8507f655195eaa0bff166c3f9dc1?rik=MJaiHc7z%2bJ2sFg&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 4,
+        "name": "Mỗi lần vấp ngã là một lần Trưởng Thành",
+        "content": "Những câu chuyện trong đây như một dẫn chứng cụ thể và sống động trong cuộc sống thường ngày của mỗi chúng ta, trong đó có tôi và bạn đấy.",
+        "price": 200000,
+        "category": "Best Book",
+        "image": "https://th.bing.com/th/id/R.9a5537ba73542d3799e879881c64d3f6?rik=O49ts0FeM03iyw&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "name": "Tuổi Trẻ Đáng Giá Bao Nhiêu?",
+        "content": "Nếu tôi còn ở tuổi đôi mươi, hẳn là tôi sẽ đọc Tuổi trẻ đáng giá bao nhiêu? nhiều hơn một lần.",
+        "price": 100000,
+        "category": "Best Book",
+        "image": "https://th.bing.com/th/id/R.49a94c054e3f14ff8361d78d60c1ccc0?rik=Z6o3w1JclGKksw&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 6,
+        "name": "13 nguyên tắc nghĩ giàu làm giàu",
+        "content": "Cuốn sách đề cập tới cách để tăng thu nhập cá nhân của một người. Những triết lý được tác giả nhắc tới trong cuốn sách có thể giúp con người thành công trong mọi lĩnh vực.",
+        "price": 200000,
+        "category": "Business Book",
+        "image": "https://glints.com/vn/blog/wp-content/uploads/2022/10/13-nguye%CC%82n-ta%CC%86%CC%81c-nghi%CC%83-gia%CC%80u-la%CC%80m-gia%CC%80u.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Bí mật tư duy triệu phú",
+        "content": "Tác phẩm tuyệt vời trong những cuốn sách hay về kinh doanh, truyền cảm hứng và động lực làm giàu cho người đọc.",
+        "price": 200000,
+        "category": "Business Book",
+        "image": "https://glints.com/vn/blog/wp-content/uploads/2022/10/Bi%CC%81-ma%CC%A3%CC%82t-tu%CC%9B-duy-trie%CC%A3%CC%82u-phu%CC%81.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Quốc gia khởi nghiệp",
+        "content": "Đây là một tác phẩm nói về sự phát triển thần tốc của đất nước Israel nhỏ bé, trở thành một trong những quốc gia các nền công nghệ dẫn đầu trên thế giới.",
+        "price": 200000,
+        "category": "Business Book",
+        "image": "https://glints.com/vn/blog/wp-content/uploads/2022/10/Quo%CC%82%CC%81c-gia-kho%CC%9B%CC%89i-nghie%CC%A3%CC%82p.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Nhà đầu tư thông minh",
+        "content": "Cuốn sách chia sẻ về cách tư duy tài chính và phương pháp đầu tư cổ phiếu an toàn. Nếu bạn đang quan tâm đến thị trường đầu tư chứng thì chắc chắn không thể bỏ qua cuốn sách hữu ích này.",
+        "price": 200000,
+        "category": "Business Book",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.YOmMah3sF9jhKlJ2rLnYeQHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 10,
+        "name": "Bí quyết gây dựng cơ nghiệp bạc tỷ",
+        "content": "Tác giả của cuốn sách là Adam Khoo – một trong những triệu phú trẻ người Singapore. Cuốn sách tổng hợp những bí quyết để thành công của người thành đạt trong việc thiết lập thói quen và lối tư duy tích cực.",
+        "price": 100000,
+        "category": "Business Book",
+        "image": "https://glints.com/vn/blog/wp-content/uploads/2022/10/Bi%CC%81-quye%CC%82%CC%81t-ga%CC%82y-du%CC%9B%CC%A3ng-co%CC%9B-nghie%CC%A3%CC%82p-ba%CC%A3c-ty%CC%89.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Những Nhà Khám Phá – Lịch Sử Tri Kiến Vạn Vật Và Con Người",
+        "content": "Được coi như cuốn sách khoa học lớn nhất của một trong những sử gia lớn nhất thời hiện đại, Những nhà khám phá là một tập khảo luận đồ sộ và bao quát về cách thức nhân loại đã khám phá thế giới.",
+        "price": 200000,
+        "category": "Science Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/11/nhung-nha-kham-pha-lich-su-tri-kien-van-vat-va-con-nguoi.jpg"
+    },
+    {
+        "id": 12,
+        "name": "GEN: Lịch Sử Và Tương Lai Của Nhân Loại",
+        "content": "Trong cuốn sách khoa học này, bác sĩ kiêm bác sĩ chuyên khoa ung thư người Mỹ gốc Ấn Độ Siddhartha Mukherjee đã chắt lọc kết cấu phức tạp vô hạn về danh tính của loài người thành một câu chuyện cực kỳ dễ hiểu.",
+        "price": 200000,
+        "category": "Science Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/11/gen-lich-su-va-tuong-lai-cua-nhan-loai.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lược Sử Tương Lai",
+        "content": "Trong cuốn sách khoa học này, Yuval Noah Harari phân tích 70.000 năm lịch sử loài người để đưa ra dự đoán về tương lai của chúng ta…",
+        "price": 200000,
+        "category": "Science Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/11/sach-khoa-hoc-homo-deus-luoc-su-tuong-lai.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Bộ Sách Nhân Tố Enzyme",
+        "content": "Vậy điều khiến chúng ta tiêu tốn enzyme diệu kỳ, làm thế nào để để bổ sung enzyme diệu kỳ hãy cùng tìm hiểu trong bộ sách Nhân tố Enzyme này nhé.",
+        "price": 200000,
+        "category": "Science Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/11/bo-sach-nhan-to-enzyme.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Lược Sử Thời Gian",
+        "content": "Cuốn sách khoa học hay về vũ trụ học này giải thích các khái niệm phức tạp như không gian, thời gian và lỗ đen cho người dân theo quan điểm khoa học.",
+        "price": 100000,
+        "category": "Science Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/11/sach-khoa-hoc-luoc-su-thoi-gian.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Mắt Biếc",
+        "content": "Mắt biếc là một tác phẩm được nhiều người bình chọn là hay nhất của nhà văn Nguyễn Nhật Ánh.",
+        "price": 200000,
+        "category": "Romance Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/09/nhung-cuon-sach-hay-ve-tinh-yeu.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Tại Sao Đàn Ông Thích Tình Dục Và Phụ Nữ Cần Tình Yêu",
+        "content": "Những ai muốn nhận được nhiều nhất từ mối quan hệ của mình nên đọc quyển sách hay về tình yêu này bởi nó giải đáp mọi vấn đề mà cả hai phái đều khát khao tìm hiểu.",
+        "price": 200000,
+        "category": "Romance Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/09/tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu.jpg"
+    },
+    {
+        "id": 18,
+        "name": "5 Ngôn Ngữ Yêu Thương",
+        "content": "Với kinh nghiệm ba mươi năm tư vấn hôn nhân, tác giả đã đúc kết được 5 Ngôn ngữ Tình yêu cơ bản – đó là năm cách để biểu đạt và thấu hiểu cảm xúc trong tình yêu.",
+        "price": 200000,
+        "category": "Romance Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/09/sach-noi-ve-tinh-yeu.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Cuốn Theo Chiều Gió",
+        "content": "Cuốn theo chiều gió đã khắc họa một cách chân thực, tài tình thân phận của nhiều lớp người trong chiến tranh và thời hậu chiến.",
+        "price": 200000,
+        "category": "Romance Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/09/sach-hay-ve-tinh-yeu-1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Anh Chính Là Thanh Xuân Của Em",
+        "content": "Hãy đọc để thêm một lần tiếc nuối, tiếc nuối để trưởng thành, tiếc nuối để biết trân trọng và tiếc nuối để yêu thương nhiều hơn!",
+        "price": 100000,
+        "category": "Romance Book",
+        "image": "https://ghiensach.com/wp-content/uploads/2021/09/nhung-cuon-tieu-thuyet-hay-nhat-ve-tinh-yeu.jpg"
+    }
+]
